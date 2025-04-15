@@ -158,7 +158,7 @@ Algunos tucumanos no saben manejar
 ---
 <!--# class="middle center" -->
 ## Cuadro tradicional de oposición
-![]()
+![](https://encyclopaedia.herdereditorial.com/w/images/thumb/d/d1/906.png/400px-906.png)
 
 ---
 <!--# class="middle center" -->
