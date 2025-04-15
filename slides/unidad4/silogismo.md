@@ -2,7 +2,7 @@
 title: Silogismo Categórico
 subtitle: "Unidad 4 y Capítulo 5 de (Zeballos y Cardozo, 2022)"
 author: "Prof. Gavriloff, Ivan Vladimir"
-date: "`{r} Sys.Date()`"
+date: "2025-04-16"
 output:
   html:
     meta:
