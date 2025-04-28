@@ -5,6 +5,9 @@ math: mathjax
 marp: true
 ---
 
+<!--
+
+-->
 # <!--fit--> Primer parcial de lógica
 Lógica - Facultad de Derecho y Cs. Soc. - UNT
 30-05-2025
@@ -12,20 +15,21 @@ Lógica - Facultad de Derecho y Cs. Soc. - UNT
 # Recordar colocar en la hoja:
 
 - **Apellido/s y Nombre/s COMPLETOS**
+- **Apellido/s en un reglón, Nombre/s en otro renglón**
 - DNI
 - Año del plan de estudios
 - Firmar al finalizar el examen
 
 # Punto 1
-Dado el siguiente enunciado realice la simbolización y por medio de tabla de verdad determine si la proposición es tautológica, contradictorio o contingente.
+Dado el siguiente enunciado realice la simbolización
 
 ### Tema 1
 
-"No es cierto que si vamos al cine y a cenar, no podemos hacer ambos cosas a la vez"
+"No es cierto que si vamos al cine y a cenar, nos quedará dinero"
 
 ### Tema 2
 
-"O apruebas o desapruebas el examen solo si te presentas el día del parcial"
+"Si te presentas el día del parcial, o lo apruebas o lo desapruebas el parcial"
 
 <!--
 Para bella vista:
@@ -34,6 +38,18 @@ Si el hombre es moral, no está determinado unívocamente por el ambiente y cabe
 Solo si llueve iremos al cine o al teatro
 -->
 
+# Punto 2
+
+### Tema 1
+
+Explique por qué la noción de validez es independiente de la noción de verdad.
+¿Es posible que haya razonamientos válidos de premisas falsas y conclusión falsa?
+
+### Tema 2
+
+Explique qué es una proposición.
+
+<!--
 # Punto 2
 Teniendo en cuenta la definición de validez y la noción de verdad:
 
@@ -44,6 +60,7 @@ Explique por qué la noción de validez es independiente de la noción de verdad
 ### Tema 2
 
 Explique la noción sintáctica de validez y su diferencia con la definición semántica
+-->
 
 <!--
 Para bella vista:
@@ -52,15 +69,21 @@ Explique qué es un razonamiento y justifique porqué los razonamientos no son n
 Diferencie la noción de validez semántica con la validez sintáctica
 -->
 # Punto 3
-Dado el siguiente razonamiento realice la simbolización y su correspondiente tabla de verdad.
-Determine si el razonamiento es válido o inválido,
+Dado el siguiente ejercicio, realice su tabla de verdad.
+Si es una proposición, determine si es tautológica, contradictoria o contingente.
+Si es un razonamiento, determine si es válido o inválido.
 
 ### Tema 1
+$(p \supset q) \equiv (\sim q \supset \sim p)$
 
 ### Tema 2
+$(p \supset q) / \therefore p \supset (q \lor r)$
 
 <!--
 Para Bella Vista:
+Dado el siguiente ejercicio simbolización y su correspondiente tabla de verdad.
+Determine si el razonamiento es válido o inválido,
+
 Si no tenemos el presupuesto suficiente, no podremos seguir con el dictado de clases. Tenemos el presupuesto suficiente. Por lo tanto, Podemos seguir con el dictado de clases.
 Si apruebas todas las materias, entonces pasas de año. No pasaste de año. Por lo tanto, No aprobaste todas las materias.
 -->
@@ -71,23 +94,20 @@ Por medio de reducción al absurdo determine la validez de las siguientes formas
 $p \supset (q \supset r) / \therefore q \supset (p \supset r)$
 
 ### Tema 2
-$(p \land q) \supset r / \therefore p \supset (q \supset r)$
+$(p \bullet q) \supset r / \therefore p \supset (q \supset r)$
 
 <!--
-$p \supset q; q \supset r / \therefore p \supset q$
+$p \supset q; q \supset r / \therefore p \supset r$
 $p \lor q; p \supset r; q \supset r / \therefore r$
 -->
 # Punto 5
+Dado el siguiente juicio categórico y su correspondiente valor de verdad, determine qué tipo de juicio es y su contradictoria, su contraria y su subalterna (en ese mismo orden) con sus respectivos valores de verdad:
 
 ### Tema 1
-Dado el siguiente juicio categórico y su correspondiente valor de verdad, determine qué tipo de juicio es y su contradictoria, su contraria y su subalterna con sus respectivos valores de verdad:
-
 "Ningún soldado es temeroso" $(V)$
 
 ### Tema 2
-Dado el siguiente juicio categórico y su correspondiente valor de verdad, determine qué tipo de juicio es y su contradictoria, su subcontraria y su subalternante con sus respectivos valores de verdad:
-
-"Algún cardenal es pájaro" $(F)$
+"Todos los cardenales es pájaros" $(F)$
 
 <!--  
 Bella vista:
@@ -106,9 +126,10 @@ Ningún esposos está casados
 Algunos profesores no son profesores
 -->
 
-# Insistimos. Recordar colocar en la hoja:
+# Insistimos: recordar colocar en la hoja
 
 - **Apellido/s y Nombre/s COMPLETOS**
+- **Apellido/s en un reglón, Nombre/s en otro renglón**
 - DNI
 - Año del plan de estudios
 - Firmar al finalizar el examen
