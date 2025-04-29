@@ -107,7 +107,7 @@ Dado el siguiente juicio categórico y su correspondiente valor de verdad, deter
 "Ningún soldado es temeroso" $(V)$
 
 ### Tema 2
-"Todos los cardenales soso pájaros" $(F)$
+"Todos los cardenales son pájaros" $(F)$
 
 <!--  
 Bella vista:
