@@ -25,11 +25,11 @@ Dado el siguiente enunciado realice la simbolización
 
 ### Tema 1
 
-"No es cierto que si vamos al cine y a cenar, nos quedará dinero"
+"Si aprendes a hablar francés  y vas vivir a Bélgica no tendrás problemas para comunicarte"
 
 ### Tema 2
 
-"Si te presentas el día del parcial, o lo apruebas o lo desapruebas el parcial"
+"Si dices la verdad no te creerán, pero si no la dices condenarán a un inocente"
 
 <!--
 Para bella vista:
@@ -42,12 +42,11 @@ Solo si llueve iremos al cine o al teatro
 
 ### Tema 1
 
-Explique por qué la noción de validez es independiente de la noción de verdad.
-¿Es posible que haya razonamientos válidos de premisas falsas y conclusión falsa?
+Mencione una frase sobre los televisores que corresponda al uso informativo (o descriptivo) del lenguaje, y otra que corresponda al uso directivo
 
 ### Tema 2
 
-Explique qué es una proposición.
+Defina Pragmática
 
 <!--
 # Punto 2
@@ -69,15 +68,13 @@ Explique qué es un razonamiento y justifique porqué los razonamientos no son n
 Diferencie la noción de validez semántica con la validez sintáctica
 -->
 # Punto 3
-Dado el siguiente ejercicio, realice su tabla de verdad.
-Si es una proposición, determine si es tautológica, contradictoria o contingente.
-Si es un razonamiento, determine si es válido o inválido.
+Determine por la tabla de verdad si la siguiente proposición es tautológica, contradictoria o contingente
 
 ### Tema 1
-$(p \supset q) \equiv (\sim q \supset \sim p)$
+$\sim (p \bullet q) \equiv (\sim p \lor \sim q)$
 
 ### Tema 2
-$(p \supset q) / \therefore p \supset (q \lor r)$
+$\sim (p \lor q) \equiv (\sim p \bullet \sim q)$
 
 <!--
 Para Bella Vista:
@@ -91,23 +88,23 @@ Si apruebas todas las materias, entonces pasas de año. No pasaste de año. Por 
 Por medio de reducción al absurdo determine la validez de las siguientes formas de razonamiento:
 
 ### Tema 1
-$p \supset (q \supset r) / \therefore q \supset (p \supset r)$
+$p \equiv r ; r \bullet \sim q / \therefore p \lor r$
 
 ### Tema 2
-$(p \bullet q) \supset r / \therefore p \supset (q \supset r)$
+$\sim p \bullet q ; \sim q \lor r / \therefore p \supset r$
 
 <!--
 $p \supset q; q \supset r / \therefore p \supset r$
 $p \lor q; p \supset r; q \supset r / \therefore r$
 -->
 # Punto 5
-Dado el siguiente juicio categórico y su correspondiente valor de verdad, determine qué tipo de juicio es y su contradictoria, su contraria y su subalterna (en ese mismo orden) con sus respectivos valores de verdad:
+Dado el siguiente juicio categórico y su correspondiente valor de verdad, determine su subalternante, contradictoria y subcontraria (en ese mismo orden) con sus respectivos valores de verdad:
 
 ### Tema 1
-"Ningún soldado es temeroso" $(V)$
+"Algunos asesinos no son psicópatas" $(V)$
 
 ### Tema 2
-"Todos los cardenales soso pájaros" $(F)$
+"Algunos sudamericanos son brasileros" $(V)$
 
 <!--  
 Bella vista:
