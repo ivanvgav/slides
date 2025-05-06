@@ -133,7 +133,7 @@ Ningún animal es un pez
 Algunos profesores están casados
 Ningún esposos está casados
 <hr>
-Algunos profesores no son profesores
+Algunos profesores no son esposos
 
 <!--  
 Bella vista:
