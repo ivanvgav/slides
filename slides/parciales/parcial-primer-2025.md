@@ -131,7 +131,7 @@ Ningún animal es un pez
 
 #### Tema 2
 Algunos profesores están casados
-Ningún esposos está casados
+Ningún esposo está casado
 <hr>
 Algunos profesores no son esposos
 
