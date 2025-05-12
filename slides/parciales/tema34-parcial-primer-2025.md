@@ -25,11 +25,11 @@ Dado el siguiente enunciado realice la simbolización
 
 ### Tema 1
 
-"Si aprendes a hablar francés  y vas vivir a Bélgica no tendrás problemas para comunicarte"
+"Si aprendes a hablar francés y vas vivir a Bélgica no tendrás problemas para comunicarte"
 
 ### Tema 2
 
-"Si dices la verdad no te creerán, pero si no la dices condenarán a un inocente"
+"Si dices la verdad no te creerán, pero si no dices la verdad condenarán a un inocente"
 
 <!--
 Para bella vista:
