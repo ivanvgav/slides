@@ -7,4 +7,4 @@
 - [Parcial 3 y 4 2025](./slides/parciales/tema34-parcial-primer-2025.html)
 - [Parcial Bella vista](./slides/parciales/parcial-primer-bella-vista-2025.html)
 - [Recuperación Bella vista](./slides/parciales/rec-primer-parcial-bella-vista-2025.html)
-
+- [Segundo parcial](./slides/parciales/parcial-segundo-2025.html)
