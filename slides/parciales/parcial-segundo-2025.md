@@ -25,18 +25,31 @@ Dado el siguiente silogismo determine: figura, modo y si es válido o no.
 De no ser válido enuncie cuáles reglas viola el silogismo.
 
 ### Tema 1
+Todos los argentinos son latinoamericanos
+
+Algunos correntinos son latinoamericanos
+<hr>
+Todos los correntinos son argentinos
+<!--
 Todos los próceres argentinos son personas que aparecen en billetes.
 Todos los que aparecen en billetes son figuras históricas reconocidas.
 <hr>
 Todos los próceres argentinos son figuras históricas reconocidas.
+-->
 
 ---
 
 ### Tema 2
+Ningún ingeniero es abogado
+Todos los ingenieros son personas ordenadas
+<hr>
+Algunas personas ordenadas son abogados
+<!--
 Algún animal que habita en los humedales argentinos es una especie en peligro de extinción.
 Ningún carpincho es una especie en peligro de extinción.
 <hr>
 Todo carpincho es un animal que habita en los humedales argentinos. 
+-->
 
 <!--
 Para bella vista:
@@ -71,13 +84,16 @@ Dado el siguiente argumento determine si es falaz o no.
 Si es una falacia, indique qué falacia es y justifique su respuesta
 
 ### Tema 1
+“Conocí a un vegano que estaba desnutrido y falleció. Evidentemente ser vegano no es saludable”
 
 ### Tema 2
+“La gran mayoría dice que X es la mejor marca de celulares, así que realmente debe ser la mejor”
 
 <!--
 Para Bella Vista:
 
 -->
+<!--
 # Punto 4
 Dadas las posibles soluciones al dilema de Jörguenssen
 
@@ -87,10 +103,11 @@ Debe explicar las interpretaciones prescriptivas y descriptivas de los operadore
 
 ### Tema 2
 Explique las diferencias entre el sistema de normas con el sistema clásico de Von Wright
+-->
 
 <!--
 -->
-# Punto 5
+# Punto 4
 Teniendo en cuenta la teoría de la argumentación de Da Silveira:
 
 ### Tema 1
