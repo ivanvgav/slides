@@ -2,7 +2,7 @@
 title: Segundo parcial de Lógica
 headingDivider: 1
 math: mathjax
-marp: false
+marp: true
 ---
 
 <!--
@@ -29,6 +29,8 @@ Todos los próceres argentinos son personas que aparecen en billetes.
 Todos los que aparecen en billetes son figuras históricas reconocidas.
 <hr>
 Todos los próceres argentinos son figuras históricas reconocidas.
+
+---
 
 ### Tema 2
 Algún animal que habita en los humedales argentinos es una especie en peligro de extinción.
@@ -89,7 +91,7 @@ Explique las diferencias entre el sistema de normas con el sistema clásico de V
 <!--
 -->
 # Punto 5
-Teniendo en cuenta la teoría de la argumentación de Da Silveira
+Teniendo en cuenta la teoría de la argumentación de Da Silveira:
 
 ### Tema 1
 ¿Cuáles son los motivos por lo que la teoría de la argumentación es importante?
