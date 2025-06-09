@@ -47,7 +47,7 @@ Para bella vista:
 Dada la siguiente proposición deóntica simbolice y realice la equivalencia de sus operadores
 
 ### Tema 1
-"Esta permitdo para toda persona mayor a 18 años ingresar en este establecimiento."
+"Esta permitido para toda persona mayor a 18 años ingresar en este establecimiento."
 
 ### Tema 2
 "Se encuentra prohibido el no uso del barbijo dentro del quirófano"
@@ -68,7 +68,7 @@ Para bella vista:
 -->
 # Punto 3
 Dado el siguiente argumento determine si es falaz o no.
-Si es una falacia, indique qué falacia es y justique su respuesta
+Si es una falacia, indique qué falacia es y justifique su respuesta
 
 ### Tema 1
 
@@ -79,7 +79,7 @@ Para Bella Vista:
 
 -->
 # Punto 4
-Dadas las posibles soluciones al dilema de Jörguessen
+Dadas las posibles soluciones al dilema de Jörguenssen
 
 ### Tema 1
 Explique por qué los operadores deónticos son ambiguos.
