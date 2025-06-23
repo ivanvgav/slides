@@ -8,9 +8,9 @@ marp: true
 <!--
 
 -->
-# <!--fit--> Segundo parcial de lógica
+# <!--fit--> Recuperación del Segundo parcial de lógica
 Lógica - Facultad de Derecho y Cs. Soc. - UNT
-11-06-2025
+25-06-2025
 
 # Recordar colocar en la hoja:
 
@@ -21,15 +21,15 @@ Lógica - Facultad de Derecho y Cs. Soc. - UNT
 - Firmar al finalizar el examen
 
 # Punto 1
-Dado el siguiente silogismo determine: figura, modo y si es válido o no.
-De no ser válido enuncie cuáles reglas viola el silogismo.
+Dado el siguiente silogismo determine si es válido o no.
+Si no lo es determine cuáles reglas viola el silogismo.
 
-### Tema 1
-Todos los argentinos son latinoamericanos
+<!-- ### Tema 1 -->
+Todos los futbolistas son deportistas
 
-Algunos correntinos son latinoamericanos
+Algunos argentinos son deportistas
 <hr>
-Todos los correntinos son argentinos
+Algunos argentinos son futbolistas
 <!--
 Todos los próceres argentinos son personas que aparecen en billetes.
 Todos los que aparecen en billetes son figuras históricas reconocidas.
@@ -39,11 +39,11 @@ Todos los próceres argentinos son figuras históricas reconocidas.
 
 ---
 
-### Tema 2
-Ningún ingeniero es abogado
-Todos los ingenieros son personas ordenadas
-<hr>
-Algunas personas ordenadas son abogados
+<!-- ### Tema 2 -->
+<!-- Ningún ingeniero es abogado -->
+<!-- Todos los ingenieros son personas ordenadas -->
+<!-- <hr> -->
+<!-- Algunas personas ordenadas son abogados -->
 <!--
 Algún animal que habita en los humedales argentinos es una especie en peligro de extinción.
 Ningún carpincho es una especie en peligro de extinción.
@@ -59,11 +59,12 @@ Para bella vista:
 # Punto 2
 Dada la siguiente proposición deóntica simbolice y realice la equivalencia de sus operadores
 
-### Tema 1
-"Esta permitido para toda persona mayor a 18 años ingresar en este establecimiento."
+"No está permitido rendir el examen de una comisión en otra comisión."
+<!-- ### Tema 1 -->
+<!-- "Esta permitido para toda persona mayor a 18 años ingresar en este establecimiento." -->
 
-### Tema 2
-"Se encuentra prohibido el no uso del barbijo dentro del quirófano"
+<!-- ### Tema 2 -->
+<!-- "Se encuentra prohibido el no uso del barbijo dentro del quirófano" -->
 
 <!--
 # Punto 2
@@ -80,14 +81,17 @@ Para bella vista:
 
 -->
 # Punto 3
-Dado el siguiente argumento determine si es falaz o no.
-Si es una falacia, indique qué falacia es y justifique su respuesta
+<!-- Dado el siguiente argumento determine si es falaz o no. -->
+<!-- Si es una falacia, indique qué falacia es y justifique su respuesta -->
+Determine qué falacia comete el siguiente argumento (en caso de ser falaz):
 
-### Tema 1
-“Conocí a un vegano que estaba desnutrido y falleció. Evidentemente ser vegano no es saludable”
-
-### Tema 2
-“La gran mayoría dice que X es la mejor marca de celulares, así que realmente debe ser la mejor”
+Desde que empecé a usar este amuleto, siempre me ha ido bien en los exámenes.
+El amuleto evidentemente funciona.
+<!-- ### Tema 1 -->
+<!-- “Conocí a un vegano que estaba desnutrido y falleció. Evidentemente ser vegano no es saludable” -->
+<!---->
+<!-- ### Tema 2 -->
+<!-- “La gran mayoría dice que X es la mejor marca de celulares, así que realmente debe ser la mejor” -->
 
 <!--
 Para Bella Vista:
@@ -110,13 +114,15 @@ Explique las diferencias entre el sistema de normas con el sistema clásico de V
 # Punto 4
 Teniendo en cuenta la teoría de la argumentación de Da Silveira:
 
-### Tema 1
-¿Cuáles son los motivos por lo que la teoría de la argumentación es importante?
+¿Cuáles son los supuestos para el proceso de argumentación?
+Enumerelos y explíquelos brevemente.
+<!-- ### Tema 1 -->
+<!-- ¿Cuáles son los motivos por lo que la teoría de la argumentación es importante? -->
 
-### Tema 2
-Explique la diferencia entre argumentar, refutar y demostrar
+<!-- ### Tema 2 -->
+<!-- Explique la diferencia entre argumentar, refutar y demostrar -->
 
-<!--  
+<!--
 Bella vista:
 
 -->
