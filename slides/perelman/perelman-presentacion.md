@@ -25,7 +25,8 @@ Argumentación $\neq$ Demostración
 La demostración:
 - Basada en reglas explícitas por sistemas formales
 - No tiene ninguna ambigüedad
-- Su finalidad es que a partir de determinas premisas, como llegar a la conclusión
+- Su finalidad es que a partir de determinas premisas, como llegar a la
+  conclusión
 
 ---
 La argumentación
@@ -38,7 +39,8 @@ La argumentación
 
 ---
 
-> Conjunto de aquellos sobre los cuales el orador quiere influir con su argumentación (Perelman, 35)
+> Conjunto de aquellos sobre los cuales el orador quiere influir con su
+> argumentación (Perelman, 35)
 
 ---
 Persuadir $\neq$ convencer
@@ -60,7 +62,8 @@ El discurso dirigido a un auditorio particular busca persuadir
 El discurso dirigido al auditorio universal busca convencer
 
 ---
-El discurso convincente es aquel que puede ser aceptado por todos los miembros del **auditorio universal**
+El discurso convincente es aquel que puede ser aceptado por todos los miembros
+del **auditorio universal**
 
 ---
 ## Géneros oratorios
@@ -91,7 +94,9 @@ Alaba o critica y tiene que ver con cuestiones estéticas (bello o feo)
 El orador *debe* partir de premisas que tengan una adhesión *suficiente*
 
 ---
-> "Sabed bien que yo merezco vuestra piedad mucho más que un castigo, porque el castigo es para los culpables y la piedad para aquellos que son objeto de una acusación injusta"
+> "Sabed bien que yo merezco vuestra piedad mucho más que un castigo, porque el
+> castigo es para los culpables y la piedad para aquellos que son objeto de una
+> acusación injusta"
 
 ¿Qué es esto?
 
@@ -133,7 +138,10 @@ Ejemplos:
 ### Juicios acerca de lo preferible
 
 ---
- > valor se aplica a todas partes donde hay “una ruptura de la indiferencia o de la igualdad entre las cosas, en todas partes donde una a de ellas debe ser puesta antes que otra, o por encima de otra; en todas partes donde es juzgada superior y merece que sea preferida” (Lavalle 1951, 13)
+> valor se aplica a todas partes donde hay “una ruptura de la indiferencia o de
+> la igualdad entre las cosas, en todas partes donde una a de ellas debe ser
+> puesta antes que otra, o por encima de otra; en todas partes donde es juzgada
+> superior y merece que sea preferida” (Lavalle 1951, 13)
  
  ---
 Los juicios de valor son aceptados universalmente en tanto quedan *indeterminados*
