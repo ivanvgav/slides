@@ -10,7 +10,7 @@ marp: true
 -->
 # <!--fit--> Recuperación del Segundo parcial de lógica
 Lógica - Facultad de Derecho y Cs. Soc. - UNT
-25-06-2025
+02-07-2025
 
 # Recordar colocar en la hoja:
 
@@ -21,15 +21,17 @@ Lógica - Facultad de Derecho y Cs. Soc. - UNT
 - Firmar al finalizar el examen
 
 # Punto 1
-Dado el siguiente silogismo determine si es válido o no.
-Si no lo es determine cuáles reglas viola el silogismo.
+Explique porqué son necesarios los operadores deónticos para tener una lógica deóntica.
+
+<!-- Dado el siguiente silogismo determine si es válido o no. -->
+<!-- Si no lo es determine cuáles reglas viola el silogismo. -->
 
 <!-- ### Tema 1 -->
-Todos los futbolistas son deportistas
+<!-- Todos los futbolistas son deportistas -->
 
-Algunos argentinos son deportistas
-<hr>
-Algunos argentinos son futbolistas
+<!-- Algunos argentinos son deportistas -->
+<!-- <hr> -->
+<!-- Algunos argentinos son futbolistas -->
 <!--
 Todos los próceres argentinos son personas que aparecen en billetes.
 Todos los que aparecen en billetes son figuras históricas reconocidas.
@@ -59,7 +61,7 @@ Para bella vista:
 # Punto 2
 Dada la siguiente proposición deóntica simbolice y realice la equivalencia de sus operadores
 
-"No está permitido rendir el examen de una comisión en otra comisión."
+"No es obligatorio no presentar documentación cada vez que está presente en esta institución"
 <!-- ### Tema 1 -->
 <!-- "Esta permitido para toda persona mayor a 18 años ingresar en este establecimiento." -->
 
@@ -85,8 +87,9 @@ Para bella vista:
 <!-- Si es una falacia, indique qué falacia es y justifique su respuesta -->
 Determine qué falacia comete el siguiente argumento (en caso de ser falaz):
 
-Desde que empecé a usar este amuleto, siempre me ha ido bien en los exámenes.
-El amuleto evidentemente funciona.
+“La gran mayoría dice que X es la mejor marca de celulares, así que realmente debe ser la mejor”
+<!-- Desde que empecé a usar este amuleto, siempre me ha ido bien en los exámenes. -->
+<!-- El amuleto evidentemente funciona. -->
 <!-- ### Tema 1 -->
 <!-- “Conocí a un vegano que estaba desnutrido y falleció. Evidentemente ser vegano no es saludable” -->
 <!---->
