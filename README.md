@@ -9,4 +9,4 @@
 - [Recuperación Bella vista](./slides/parciales/rec-primer-parcial-bella-vista-2025.html)
 - [Segundo parcial](./slides/parciales/parcial-segundo-2025.html)
 - [Recuperacion Segundo Parcial](./slides/parciales/recuperacion-segundo-2025.html)
-- [Recuperacion Bella Vista Segundo Parcial](./recuperacion-segundo-bv-2025.html)
+- [Recuperacion Bella Vista Segundo Parcial](./slides/parciales/recuperacion-segundo-bv-2025.html)
