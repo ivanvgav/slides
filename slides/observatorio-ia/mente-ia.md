@@ -38,7 +38,7 @@ Sostienen que sí
 
 ---
 
-El extremo es
+# Punto extremo
 
 ---
 
