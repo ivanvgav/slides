@@ -50,13 +50,13 @@ La $AGI$
 
 ---
 
-La IA es una caja negra
+## La IA es una caja negra
 
 No sabemos exactamente lo que sucede cada vez que pedimos algo a alguien
 
 ---
 
-Que sea *agencial* implica trabajar sobre algo que se tiene
+Que sea *agencial* implica trabajar sobre algo ya dado
 
 ---
 
