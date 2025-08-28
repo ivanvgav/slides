@@ -10,3 +10,10 @@
 - [Segundo parcial](./slides/parciales/parcial-segundo-2025.html)
 - [Recuperacion Segundo Parcial](./slides/parciales/recuperacion-segundo-2025.html)
 - [Recuperacion Bella Vista Segundo Parcial](./slides/parciales/recuperacion-segundo-bv-2025.html)
+
+---
+
+## Congresos
+
+- [JPA](./slides/)
+- [Observatorio IA](./slides/observatorio-ia/mente-ia.html)
