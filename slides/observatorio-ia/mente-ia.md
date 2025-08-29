@@ -1,7 +1,7 @@
 ---
 title: IA y Mentes 
-author: Gavriloff, Ivan Vladimir (IEP FFyL - CONICET)
-date: Septiembre 2025
+author: Gavriloff, Ivan Vladimir (IEP FFyL UNT - CONICET)
+#date: Septiembre 2025
 format: 
     revealjs:
         theme: moon
@@ -14,10 +14,22 @@ format:
 ---
 
 # Novedad del mercado IA/LLMs
-<!-- Imágenes de termino de agentes -->
+
+# {background-image="images/antrophic.png" background-size="contain"}
+
+# {background-image="images/openai.png" background-size="contain"}
+
+# {background-image="images/markets-agents.png" background-size="contain"}
 
 # Modo Agente
 La idea de que la IA es una agente
+
+#
+![](images/ai-agents-overview.png)
+
+::: aside
+Durante *et. al.* (2024)
+:::
 
 ---
 
@@ -79,7 +91,7 @@ Demostración
 ¿Qué es lo que determina que tenga una mente?
 :::
 
-# Test de Turing {background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/250px-Alan_Turing_Aged_16.jpg"}
+# Test de Turing {background-image="images/alan-turing.jpg" background-size="contain"}
 
 ![Alan Turing](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/250px-Alan_Turing_Aged_16.jpg)
 
@@ -128,7 +140,9 @@ Comportamiento ❌
 ::: {.r-fit-text}
 ¿Autonomía?
 :::
-<!-- Imagen de Skynet -->
+
+# {background-image="images/skynet.png"}
+
 ---
 
 ::: {.r-fit-text}
@@ -158,3 +172,5 @@ Lógicas formales
 ::: {.r-fit-text}
 ¡Muchas gracias!
 :::
+
+✉️ `ivan.gavriloff@derecho.unt.edu.ar`
