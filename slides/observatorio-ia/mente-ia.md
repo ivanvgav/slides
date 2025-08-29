@@ -4,7 +4,7 @@ author: Gavriloff, Ivan Vladimir (IEP FFyL UNT - CONICET)
 #date: Septiembre 2025
 format: 
     revealjs:
-        theme: moon
+        theme: [moon, custom.scss]
         center: true
         #show-notes: separate-page
         #center-title-slide: true
@@ -25,11 +25,7 @@ format:
 La idea de que la IA es una agente
 
 #
-![](images/ai-agents-overview.png)
-
-::: aside
-Durante *et. al.* (2024)
-:::
+![Durante *et. al.* (2024)](images/ai-agents-overview.png)
 
 ---
 
