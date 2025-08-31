@@ -245,3 +245,12 @@ La validez de un argumento es relativa al auditorio universal
 El orador tiene una sobrevaloración natural a la fuerza de sus argumentos
 
 El orador suele subvalorar los argumentos del adversario
+
+---
+
+Muchas gracias por estar en las clases,
+ha sido un gusto ser su profesor
+
+Espero que hayan aprendido algo
+
+Nos estaremos viendo
