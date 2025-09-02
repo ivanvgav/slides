@@ -1,5 +1,5 @@
 ---
-title: IA y Mentes 
+title: IA, Agentes y Mentes 
 author: Gavriloff, Ivan Vladimir (IEP FFyL UNT - CONICET)
 #date: Septiembre 2025
 format: 
@@ -24,13 +24,19 @@ format:
 # Modo Agente
 La idea de que la IA es una agente
 
-#
+# {background-image="images/ai-agents-overview.png" background-size="contain"}
+
+<!-- ---
+
 ![Durante *et. al.* (2024)](images/ai-agents-overview.png)
 
 ---
+ -->
+
+ ---
 
 ::: {.r-fit-text}
-Si es un agente, entonces tiene capacidad agencial
+Si es un agente, tiene capacidad de **accionar autónomamente**
 :::
 
 ---
@@ -53,8 +59,6 @@ Sostienen que sí
 # La Singularidad
 La $AGI$
 
-## ¿Implica que tiene una mente?
-
 ## La IA es una caja negra
 
 No sabemos exactamente lo que sucede cada vez que pedimos algo a alguien
@@ -62,12 +66,6 @@ No sabemos exactamente lo que sucede cada vez que pedimos algo a alguien
 ---
 
 Que sea *agencial* implica trabajar sobre algo ya dado
-
----
-
-::: {.r-fit-text}
-Demostración
-:::
 
 ---
 
@@ -106,7 +104,7 @@ Quedó obsoleto
 ---
 
 ::: {.r-fit-text}
-¿Que otros criterios podemos tener para determinar si la IA tiene o no mente?
+¿Qué otros criterios podemos tener para determinar si la IA tiene o no mente?
 :::
 
 ---
@@ -124,7 +122,7 @@ Comportamiento ❌
 ---
 
 ::: {.r-fit-text}
-¿Explicite que sabe interpretar?
+¿Qué sabe interpretar?
 :::
 
 ---
@@ -139,12 +137,11 @@ Comportamiento ❌
 ¿Autonomía?
 :::
 
-# {background-image="images/skynet.png"}
-
+<!-- # {background-image="images/skynet.png"}-->
 ---
 
 ::: {.r-fit-text}
-Posibles respuestas
+Posibles áreas para encontrar respuestas
 :::
 
 ---
