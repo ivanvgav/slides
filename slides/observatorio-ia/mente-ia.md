@@ -4,7 +4,7 @@ author: Gavriloff, Ivan Vladimir (IEP FFyL UNT - CONICET)
 #date: Septiembre 2025
 format: 
     revealjs:
-        theme: [moon, custom.scss]
+        theme: simple
         center: true
         #show-notes: separate-page
         #center-title-slide: true
