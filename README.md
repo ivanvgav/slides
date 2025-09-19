@@ -15,5 +15,5 @@
 
 ## Congresos
 
-- [JPA](./slides/)
+- [JPA](./slides/peirce-no-clasico/slides-peirce-no-clasico.html)
 - [Observatorio IA](./slides/observatorio-ia/mente-ia.html)
