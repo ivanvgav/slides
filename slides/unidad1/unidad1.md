@@ -3,6 +3,7 @@ title: Lógica y Lenguaje
 subtitle: La relación entre la lógica y el lenguaje, ¿qué tiene que ver con el derecho? 
 format: 
   clean-revealjs:
+    embed-resources: true
     center: true
     slide-number: false
     progress: false
@@ -55,28 +56,19 @@ Ciencia de los signos
 
 ## Sintaxis
 
----
-
 Relación entre los signos
-
----
 
 **Ejemplo:** Análisis gramatical de oraciones
 
 ## Semántica
 
----
-
 Relación entre los signos y el mundo, las cosas
-
----
 
 Hace referencia a los conceptos de *verdad*
 
 ---
-## Pragmática
 
----
+## Pragmática
 
 Indaga el uso de los signos
 
