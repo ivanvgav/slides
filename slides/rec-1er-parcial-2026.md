@@ -32,7 +32,7 @@ Dada la siguiente proposición determine por medio de tabla de verdad si es una 
 
 #### Tema 1
 
-$$(p \supset q) \equiv (\neg q \supset \n p)$$
+$$(p \supset q) \equiv (\neg q \supset \neg p)$$
 
 #### Tema 2
 
@@ -44,27 +44,29 @@ Dado el siguiente razonamiento determine su validez mediante reducción al absur
 
 #### Tema 1
 
-$$p \lor q ; \neg p / \therefore q$$
+$$(p \land q) \supset r ; p \land q / \therefore r$$
 
 #### Tema 2
 
-$$(p \land q) \supset r ; p \land q / \therefore r$$
+$$p \lor q ; \neg p / \therefore q$$
 
 ## Punto 4 
 
 Dado el siguiente silogismo determine figura, modo y en caso de ser inválido enuncie *todas* reglas viola
 
-#### Tema 1
+##### Tema 1
 
-Todos los perros son mamíferos \\
-Todos los gatos son mamíferos \\
+Todos los perros son mamíferos
+
+Todos los gatos son mamíferos
 <hr>
 Todos los gatos son perros
 
-#### Tema 2
+##### Tema 2
 
-Todos los filósofos son pensadores \\
-Ningún científico es filósofo \\
+Todos los filósofos son pensadores
+
+Ningún científico es filósofo
 <hr>
 Ningún científico es pensador
 
