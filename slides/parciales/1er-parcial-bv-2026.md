@@ -41,7 +41,7 @@ Dado el siguiente razonamiento determine su validez mediante reducción al absur
 $q \lor p ; \neg p / \therefore \neg q$
 
 #### Tema 2
-$p \supset q / \therefore p (q \lor r)$
+$p \supset q / \therefore p \supset (q \lor r)$
 
 ---
 
