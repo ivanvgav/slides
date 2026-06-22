@@ -15,16 +15,31 @@ format:
 - Escriban con letra clara
 
 ## Punto 1
+Identifique y explique la falcia presente en el siguiente argumento:
 
 #### Tema 1
 
+:::{.small}
+> "La profesora afirma que la prisión preventiva debe aplicarse de manera restrictiva para respetar el principio de inocencia.
+> Pero no deberíamos tomar en serio su postura porque nunca ejerció la profesión de abogada litigante."
+:::
+
 #### Tema 2
+
+:::{.small}
+> "Los estudiantes deben aceptar que la reforma del plan de estudios es beneficiosa;
+> quienes la critique podrían perder oportunidades académicas dentro de la facultad."
+:::
 
 ## Punto 2
+
 #### Tema 1
+
+Dentro de las falacias de ambigüedad: Explique la falacias del énfasis
 
 #### Tema 2
 
+Dentro de las falacias de ambigüedad: Explique la falacias de la división
 
 ## Punto 3
 
