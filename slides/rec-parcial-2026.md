@@ -24,6 +24,8 @@ Identifique y explique la falcia presente en el siguiente argumento:
 > Pero no deberíamos tomar en serio su postura porque nunca ejerció la profesión de abogada litigante."
 :::
 
+---
+
 #### Tema 2
 
 :::{.small}
