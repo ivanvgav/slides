@@ -17,6 +17,7 @@
 - [Recuperación Bella Vista primer parcial 2026](./slides/parciales/rec-1er-parcial-bv-2026.html)
 - [Segundo Parcial 2026](./slides/2do-parcial-2026.html)
 - [Recuperación Segundo Parcial 2026](./slides/rec-parcial-2026.html)
+- [Segundo Parcial Bella Vista 2026](./slides/2do-parcial-bv-2026.html)
 
 ---
 
