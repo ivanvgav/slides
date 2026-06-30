@@ -18,6 +18,7 @@
 - [Segundo Parcial 2026](./slides/2do-parcial-2026.html)
 - [Recuperación Segundo Parcial 2026](./slides/rec-parcial-2026.html)
 - [Segundo Parcial Bella Vista 2026](./slides/2do-parcial-bv-2026.html)
+- [Recuperación Segundo Parcial Bella Vista 2026](./slides/rec-2do-parcial-bv-2026.html)
 
 ---
 
