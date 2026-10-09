@@ -26,3 +26,9 @@
 
 - [JPA](./slides/peirce-no-clasico/slides-peirce-no-clasico.html)
 - [Observatorio IA](./slides/observatorio-ia/mente-ia.html)
+
+---
+
+## Presentaciones varias
+
+- [Observatorio IA](./slides/peirce_y_la_logica.html)
