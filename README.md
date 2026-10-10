@@ -31,4 +31,4 @@
 
 ## Presentaciones varias
 
-- [Observatorio IA](./slides/peirce_y_la_logica.html)
+- [Peirce y la lógica - Gnoseología](./slides/peirce_y_la_logica.html)
